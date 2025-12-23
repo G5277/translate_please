@@ -115,7 +115,7 @@ st.markdown("""
     margin-bottom: 2rem;
 }
 .feature-card {
-    background: white;
+    background: black;
     padding: 1.5rem;
     border-radius: 10px;
     border-left: 4px solid #3B82F6;
