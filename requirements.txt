@@ -1,0 +1,11 @@
+torch
+transformers
+sentencepiece
+accelerate
+peft
+streamlit
+regex
+protobuf
+safetensors
+numpy
+tqdm
